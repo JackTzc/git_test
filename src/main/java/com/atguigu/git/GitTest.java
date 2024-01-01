@@ -8,6 +8,7 @@ public class GitTest {
         System.out.println("hello git3!...master");
         System.out.println("hello git!....hot-fix");
         System.out.println("hello git!....hot-fix01");
+        System.out.println("梁光杰是我儿");
         //
     }
 }
